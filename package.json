@@ -1,5 +1,5 @@
 {
-  "name": "vetw-server",
+  "name": "rtc-server",
   "version": "0.0.1",
   "description": "server for venue at the end of the world",
   "main": "server.js",
